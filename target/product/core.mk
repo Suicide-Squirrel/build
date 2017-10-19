@@ -38,7 +38,7 @@ PRODUCT_PACKAGES += \
     InputDevices \
     KeyChain \
     Keyguard \
-    Launcher2 \
+    Luna \
     ManagedProvisioning \
     MtpDocumentsProvider \
     PicoTts \
