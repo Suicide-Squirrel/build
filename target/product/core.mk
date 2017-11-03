@@ -38,7 +38,7 @@ PRODUCT_PACKAGES += \
     InputDevices \
     KeyChain \
     Keyguard \
-    Luna \
+    Lawnchair \
     ManagedProvisioning \
     MtpDocumentsProvider \
     PicoTts \
@@ -53,6 +53,8 @@ PRODUCT_PACKAGES += \
     Telecom \
     TeleService \
     VpnDialogs \
-    MmsService
+    MmsService \
+    SnapdragonMusic \
+    MuzeAudio
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_base.mk)
