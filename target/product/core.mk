@@ -55,6 +55,7 @@ PRODUCT_PACKAGES += \
     VpnDialogs \
     MmsService \
     SnapdragonMusic \
-    MuzeAudio
+    MuzeAudio \
+    ParanoidCamera
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_base.mk)
