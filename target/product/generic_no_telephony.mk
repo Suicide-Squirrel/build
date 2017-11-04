@@ -20,7 +20,7 @@
 PRODUCT_PACKAGES := \
     Bluetooth \
     BluetoothMidiService \
-    Camera2 \
+    ParanoidCamera \
     Gallery2 \
     Music \
     MusicFX \
