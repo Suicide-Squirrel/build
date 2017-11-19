@@ -56,6 +56,7 @@ PRODUCT_PACKAGES += \
     MmsService \
     SnapdragonMusic \
     MuzeAudio \
-    ParanoidCamera
+    ParanoidCamera \
+    Stk
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_base.mk)
